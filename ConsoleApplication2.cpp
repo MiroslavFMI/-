@@ -5,7 +5,7 @@
 
 int main()
 {
-    ////задача 7
+    ////Р·Р°РґР°С‡Р° 7
     //int num, firstN, max;
     //std::cout << "Enter number: ";
     //std::cin >> num;
@@ -29,7 +29,7 @@ int main()
     //}
     
 
-    ////задача 6
+    ////Р·Р°РґР°С‡Р° 6
     //double price;
     //int USB_ports, GB_RAM;
     //bool SSD;
@@ -66,7 +66,7 @@ int main()
     //}
 
 
-    //бонус 0
+    // Р±РѕРЅСѓСЃ 0
     int tomatoes, peppers, carrots, potatoes, olives, ovkusiteli;
     bool friend_;
     std::cout << "Tomatoes: ";
